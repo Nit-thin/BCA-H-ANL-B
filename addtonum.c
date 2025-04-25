@@ -1,3 +1,4 @@
+//add 2 numbers
 #include<stdio.h>
 #include<conio.h>
 void main()
